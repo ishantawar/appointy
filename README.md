@@ -10,7 +10,7 @@
 - **Payment Gateways**: Razorpay
 - **Authentication**: JSON Web Token (JWT)
 
-Preview - https://appointy-roan.vercel.app/
+**Preview** - https://appointy-roan.vercel.app/
 
 ## 🔑 Key Features
 
